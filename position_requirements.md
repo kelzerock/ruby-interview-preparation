@@ -323,25 +323,25 @@ Requirements:
 
 Required skills
 - 5+ years of experience coding in modern consumer facing web applications
-— Experience with Ruby and Ruby on Rails
-— Deep understanding of RESTful API design
-— Knowledge of database design best practices for high throughput applications
-— Experience working with large-scale distributed systems
-— Strong written and verbal communication skills
-— Desire to continuously improve the quality of the applications you work on
-— Focus on creating value for our customers
-— Level of English: Upper-Intermediate
+- Experience with Ruby and Ruby on Rails
+- Deep understanding of RESTful API design
+- Knowledge of database design best practices for high throughput applications
+- Experience working with large-scale distributed systems
+- Strong written and verbal communication skills
+- Desire to continuously improve the quality of the applications you work on
+- Focus on creating value for our customers
+- Level of English: Upper-Intermediate
 
 Responsibilities
-— Implement integrations between properties
-— Work closely with product and front end engineers to implement features
-— Improve a product used by 250 million people every month
-— Help define the application architecture to improve team velocity
-— Simplify and streamline the current development environment
-— Simplify and update the current build system
-— Participate in interviews
-— Mentor fellow engineers
-— Have a broad impact on the future and direction of the product
+- Implement integrations between properties
+- Work closely with product and front end engineers to implement features
+- Improve a product used by 250 million people every month
+- Help define the application architecture to improve team velocity
+- Simplify and streamline the current development environment
+- Simplify and update the current build system
+- Participate in interviews
+- Mentor fellow engineers
+- Have a broad impact on the future and direction of the product
 
 
 ## EVERFI - Engineer, Systems (Ruby / Rails)
