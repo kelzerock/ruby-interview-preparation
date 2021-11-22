@@ -322,8 +322,7 @@ Requirements:
 ## Scribd - Senior Back End Developer
 
 Required skills
-
-— 5+ years of experience coding in modern consumer facing web applications
+- 5+ years of experience coding in modern consumer facing web applications
 — Experience with Ruby and Ruby on Rails
 — Deep understanding of RESTful API design
 — Knowledge of database design best practices for high throughput applications
