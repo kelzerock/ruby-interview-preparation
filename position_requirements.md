@@ -91,25 +91,25 @@ Nice to have:
 ## Squro - Middle/Senior Ruby Developer
 
 Responsibilities:
-— Developing new features mostly for the backend part;
-— Optimization, and improvement of the project;
-— Taking part in technical architecture and design;
-— Performing code review, production support;
-— Participating in Scrum and OKR retrospectives and planning to provide feedback and synchronize
+- Developing new features mostly for the backend part;
+- Optimization, and improvement of the project;
+- Taking part in technical architecture and design;
+- Performing code review, production support;
+- Participating in Scrum and OKR retrospectives and planning to provide feedback and synchronize
 on new development within the team;
-— Writing unit/integration tests and docs for implemented functionality.
+- Writing unit/integration tests and docs for implemented functionality.
 
 Requirements:
-— Strong knowledge of design patterns, basic algorithms, and data structures;
-— 3+ years of Ruby development experience;
-— Experience with RoR 5;
-— Expertise in working with relational databases (MySQL, Postgres);
-— Skills in writing unit/integration tests.
+- Strong knowledge of design patterns, basic algorithms, and data structures;
+- 3+ years of Ruby development experience;
+- Experience with RoR 5;
+- Expertise in working with relational databases (MySQL, Postgres);
+- Skills in writing unit/integration tests.
 
 Will be a plus knowledge of:
-— Microservice architecture and RabbitMQ;
-— React (or other JS libraries/frameworks);
-— GraphQL.
+- Microservice architecture and RabbitMQ;
+- React (or other JS libraries/frameworks);
+- GraphQL.
 
 ## Clevergig - MIDDLE/SENIOR RUBY ON RAILS BACKEND ENGINEER
 
