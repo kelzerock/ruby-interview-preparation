@@ -242,18 +242,18 @@ Advantages:
 
 Responsibilities:
 
-• Minimum 5+ years software development experience (RoR)
-• Proposes the pragmatic solution to painful problems
-• Finds opportunities to teach others
-• Loves to hear about the value our work delivers to our customers
-• Kindly and consistently pushes the team forward, but knows how to pick their battles
+- Minimum 5+ years software development experience (RoR)
+- Proposes the pragmatic solution to painful problems
+- Finds opportunities to teach others
+- Loves to hear about the value our work delivers to our customers
+- Kindly and consistently pushes the team forward, but knows how to pick their battles
 
 Nice to have:
-• Experience (or interest in) data engineering, API design or integrations
-• Experience (or interest in) event-driven architectures
-• Experience with React / Redux or modern JavaScript
-• Experience with Postgres and writing well-tuned queries
-• Experience with Elixir or Phoenix
+- Experience (or interest in) data engineering, API design or integrations
+- Experience (or interest in) event-driven architectures
+- Experience with React / Redux or modern JavaScript
+- Experience with Postgres and writing well-tuned queries
+- Experience with Elixir or Phoenix
 
 
 ## Svitla - SENIOR RUBY ENGINEER
