@@ -384,3 +384,34 @@ Responsibilities:
 - You know how to develop and reason about concurrent background processes using a framework like Resque or Sidekiq.
 - You don't mind a little code archaeology.
 - You are fine with writing documentation.
+
+## Ruby Developer for Surprise.com at SELECT
+
+Requirements:
+
+- 3+ years of Rails development;
+- Experience in developing API-only applications;
+- Good knowledge of Ruby 2.6+, Rails 5-6;
+- Relational DB’s (preferably PostgreSQL);
+- Background processing (Sidekiq), Redis;
+- Experience doing code reviews and coaching more junior developers;
+- Experience in high-velocity feature development focused projects before (b2b, b2c);
+- Upper Intermediate English or higher (B2+);
+- A BS or higher in a technical field (Computer Science, Math, Physics, etc.).
+
+Responsibilities:
+
+- Making the product better, stronger, faster;
+- Implementing new features in partnership with Product Department;
+- Tuning the application to make it more performant and scalable;
+- Innovating lightweight, robust, platform-agnostic RESTful APIs;
+- Designing an easy-to-maintain, easy-to-extend back end infrastructure;
+- Shipping the best code you can, and helping other developers through code review and mentorship.
+
+Nice to have:
+
+- An interest in collecting data from disparate sources, whether via APIs or other means;
+- Experience working within a geographically dispersed team;
+- Demonstrated ability to expertly manage conflicting priorities;
+- High-bandwidth, high-energy, competitive, and creative individual;
+- Driven to outperform; dedicated to self-improvement.
