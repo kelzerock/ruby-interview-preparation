@@ -2,12 +2,29 @@
 - Relational databases
   - PostgreSQL
   - MySQL
+  - Primary key
+  - Secondary key
 - NoSQL (nonrelational) databases
   - Key-value
   - Document
   - Graph
   - Column-oriented
 - SQL
+  - JOINS
 - Indexes
+  - By structure
+    - B-tree
+    - Bitmap
+    - Hash
+    - Full-text
+    - Spatial
+  - Clustered
+  - Composite/Concatenated
+  - Function-based
+  - Partial
+  - Covering
+  - Prefixed
 - Transactions
+  - Transaction Isolation Levels
+    - 
 - ACID
