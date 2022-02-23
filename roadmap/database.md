@@ -1,0 +1,13 @@
+
+- Relational databases
+  - PostgreSQL
+  - MySQL
+- NoSQL (nonrelational) databases
+  - Key-value
+  - Document
+  - Graph
+  - Column-oriented
+- SQL
+- Indexes
+- Transactions
+- ACID
