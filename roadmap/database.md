@@ -4,11 +4,13 @@
   - MySQL
   - Primary key
   - Secondary key
+  - Trigger
 - NoSQL (nonrelational) databases
   - Key-value
   - Document
   - Graph
   - Column-oriented
+- Redis
 - SQL
   - JOINS
 - Indexes
@@ -25,6 +27,18 @@
   - Covering
   - Prefixed
 - Transactions
+  - Deadlock
   - Transaction Isolation Levels
-    - 
+    - Read uncommitted
+    - Read committed
+    - Phantom Read
+    - Serilializable
+  - Distributed transaction
 - ACID
+  - Atomicity
+  - Consistency
+  - Isolation
+  - Durability
+ - Locking
+ - Partitioning
+ - Replication
