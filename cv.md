@@ -17,7 +17,7 @@ Expirience
 - Strong knowledge of design patterns
 - Taking part in technical architecture and design;
 
-Responsibilities: 
+Responsibilities:
 - Shipping the best code you can, and helping other developers through code review and mentorship.
 - Designing an easy-to-maintain, easy-to-extend back end infrastructure;
 - Innovating lightweight, robust, platform-agnostic RESTful APIs;
@@ -33,7 +33,7 @@ Responsibilities:
 - Produce high quality, secure, performant, testable Ruby code.
 - Take part in the monitoring of production stack.
 - Identifying technical debt sources, estimating the amount of added development time, and fixing part of it every release;
-- 
+
 Tools:
 
 Ruby on Rails, AngularJS, Grape, ActiveAdmin, Leaflet, RSpec, FactoryBot, PostgreSQL,Axlsx, RSpec, MySQL, I18n, Globolize, Carrierwave, git, linux, mac,
